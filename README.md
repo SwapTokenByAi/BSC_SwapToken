@@ -4,7 +4,7 @@
 
 https://linktr.ee/swaptoken
 
-Contract: 0xe9a5b81e46c30E3860d246A0D1f2e74E7E8ada24
+Contract: 
 
 We are thrilled to announce the launch of The Token, a revolutionary cryptocurrency that is entirely powered by Artificial Intelligence. This is not just another token; it's a glimpse into the future of blockchain technology and AI convergence.
 
